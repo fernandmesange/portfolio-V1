@@ -14,7 +14,7 @@ export default function App() {
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 text-foreground">Fernand Mesange</h1>
           <h2 className="text-xl md:text-2xl mb-6 text-accent">Développeur Full Stack</h2>
           <p className="max-w-xl text-muted-foreground text-lg">
-            Je crée des applications web performantes et accessibles avec une attention particulière aux détails.
+            Je crée des applications web et mobile performantes et accessibles avec une attention particulière aux détails.
           </p>
         </header>
 
