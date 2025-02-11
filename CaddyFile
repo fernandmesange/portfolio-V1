@@ -1,6 +1,5 @@
 fernandmesange.site{
     root * /srv
-    
     file_server
     encode gzip
     try_files {path} /index.html

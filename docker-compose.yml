@@ -2,7 +2,7 @@
 services:
   frontend:
     build: .
-    container_name: portfolio Fernand Mesange
+    container_name: portfolioFernand
     ports:
       - "80:80"
       - "443:443"
