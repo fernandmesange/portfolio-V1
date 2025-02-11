@@ -1,7 +1,6 @@
-version: '3'
 
 services:
-  react_app:
+  frontend:
     build: .
     container_name: portfolio Fernand Mesange
     ports:
